@@ -1,9 +1,9 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: Not A Real Hacker
+description: "Just some dude who duckduckgo's a lot"
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "Nick Gnazzo"
+  email: "nick@nickgnazzo.com"
+  url: "https://nickgnazzo.com"
 
 baseurl: /
 
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "SomeHacker"
-year : "2018"
+owner : "Nick Gnazzo"
+year : "2019"
