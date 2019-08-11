@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Something about me.
+I'm a software engineer/DevOps/glorified guy that googles things. I like computers and privacy and security-related things. And dogs.
