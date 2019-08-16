@@ -10,5 +10,9 @@ You can email me at any of these addresses:
 nickgnazzo@icloud.com
 nick@nickgnazzo.com
 
+Here's my LinkedIn profile:
+
+https://www.linkedin.com/in/nicholas-gnazzo-45b1a165
+
 Here's my PGP key:
 DD5B C38E 591F B184 8D13 2214 E32A 3446 1494 F2F7
