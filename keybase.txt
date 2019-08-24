@@ -1,56 +1,72 @@
 ==================================================================
-https://keybase.io/nickgnazzo
+https://keybase.io/ngnazzo
 --------------------------------------------------------------------
 
 I hereby claim:
 
   * I am an admin of https://nickgnazzo.com
-  * I am nickgnazzo (https://keybase.io/nickgnazzo) on keybase.
-  * I have a public key ASBDNl6FKTKP2C9yPcz78DuANM5_2nEwVz0HuMt6zyOFTAo
+  * I am ngnazzo (https://keybase.io/ngnazzo) on keybase.
+  * I have a public key with fingerprint 7C2D 4D4D 97FF 9FEB 3BBC  C66C 721B 7322 3E7F E24D
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "012043365e8529328fd82f723dccfbf03b8034ce7fda7130573d07b8cb7acf23854c0a",
+      "eldest_kid": "01011689237c5a0612bb3af1860dc47945580d3e7e34093464748c89de0380d015580a",
+      "fingerprint": "7c2d4d4d97ff9feb3bbcc66c721b73223e7fe24d",
       "host": "keybase.io",
-      "kid": "012043365e8529328fd82f723dccfbf03b8034ce7fda7130573d07b8cb7acf23854c0a",
-      "uid": "9da4a35687011f0d0a7451a6bf72bf19",
-      "username": "nickgnazzo"
-    },
-    "merkle_root": {
-      "ctime": 1566604683,
-      "hash": "4d47c06f29e325d75bf9279c6f8c89c8f5d9c65fd1076f99b4fef4f42256325032d76586f9e7ff1d82880ad9c0e962f608bbd1e1d7c7ddf1870d5a5f6820567c",
-      "hash_meta": "b0c5f2286026e81a3c82922dd5e0275dc8118aef922598709ab7b53651bc00bd",
-      "seqno": 6086788
+      "key_id": "721b73223e7fe24d",
+      "kid": "01011689237c5a0612bb3af1860dc47945580d3e7e34093464748c89de0380d015580a",
+      "uid": "fd01ffa1d602d5c1f077131fdca5b419",
+      "username": "ngnazzo"
     },
     "service": {
-      "entropy": "0Kdyv0e2/LUYCabEiG+QPWQG",
       "hostname": "nickgnazzo.com",
       "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 2
+    "version": 1
   },
-  "client": {
-    "name": "keybase.io go client",
-    "version": "4.3.2"
-  },
-  "ctime": 1566604728,
-  "expire_in": 504576000,
-  "prev": "763e46068dd70182292baee2cceee26ac5f7dfc5758f33ed226cdedb97bf0790",
-  "seqno": 8,
+  "ctime": 1566661005,
+  "expire_in": 157680000,
+  "prev": "0a4449a47629b4b40ebd160e54e717209d7e3391111d442c6ac604e7406502f3",
+  "seqno": 3,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQzZehSkyj9gvcj3M+/A7gDTOf9pxMFc9B7jLes8jhUwKp3BheWxvYWTESpcCCMQgdj5GBo3XAYIpK67izO7iasX338V1jzPtImze25e/B5DEIL02cYuus7YHUvFUprWth15/YAgRProVDv+QQOxKXaPsAgHCo3NpZ8RAsyCahSKHUKLYmr9s1ERS0AiwgVy7NFsxfCXljNPJK6TLQnDLcqWcnyAS3K6/77qGiROdzFbemSaK+EQQhGLWCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMqvItXScaJqExCobWWOclZF5oMp20Z7BG3PCf5tGrE4o3RhZ80CAqd2ZXJzaW9uAQ==
+-----BEGIN PGP MESSAGE-----
+
+owGtUmtQVGUY3gWkBYeQS3FZUDgTocNlzuXbc/as2mSuJA41RtPSagbn8h047bJn
+3V1WVmQyLbOWDHAQCAhDg3JoiuGig5KVZMugIwyCgQwK2KQTk6CEF5qpcyj+9bP3
++/HN977P83zv+8xbHuKv0qjX3l/RZIoho9T9d1jVLsbcXYKwEu9BDCWIBS5d0MpD
+pyvXIvKIAUExFMNIPY0TFKdjUBLDWZZgBExPojwHKBrodHqUJyAFCYDSBCABBfSc
+nuYhSsgFFFPqDJKKCKItHzrsDtHmkmUpDueBfGhKEGgBsgTLchxJchSOsRSB47Kg
+AHHAy8QCyakw5OZYxgnTRUnOyY/cpfb+A/8/9120JCfIGUFgMJ5EcV7HYQJKURiB
+CTzH6FiA0QrQCR02phDKaFu+jdm7V0JKUxE56RY5qPiqDLIMEDnLP5h0TiqUyXaH
+5JI4ySrXClwuu9OgcF0euwLeA9ncf2VyWdHGy0bKDDd0OEXJhhgwGcm5REUX05Fy
+YCiqS0VgsV10wFxRQegoUo/KofwD3Yo7DACANjOAInGaBSxAIctjJAp1AFIYhaM0
+LxtD0JgcPAA4RzIcico1gJI6FBcIRJlst01CDITcJ5MvazpFeSJXkQMipcEf+BEB
+KrVGFf90YsDKx5an4r6/8vvPIDl9eflW+CmbpwoOWrWcGRsOfez/Y/FbdTc2XdDU
+vhPzh2e2zvdLS07EcFEvyNvZPBfiVeXf3Hrv0I6+icSB0S3TC0OW7nH4aKD7eTbw
+C6/54JcPW6964eGRoxnBr46+m9yafWAgInb/X5//1Oprqm68XHH8yJ9VmUWJB5K0
+ndELnbxmUjvHRMZ86vMGY6EP7iyQHWXfNbTpf7t7v0czs79jqjpxi6bihfbmBP2z
+sZaZl0WsjTgZf/6jN25H7zlT4/FVhno/MWcll2izN7Zs7F8XFGkqm1stmd4rH190
+F4Kus0Wngr8eS3G329ImNzff8pu/GRqX2Oc2Bd69HrqpMWJDhvHjhrBVV+vTq5Nr
+h8D0k89NfjZxKL6+LWuyZ591Nbf+q4XMjCN0ZJ8xs6BfHVWzaCve3dj7Yed26xOX
+fIubHWEXzpqvHFM1nHxwLuXcrSrPaNa2WmNYVMh8uDA/F7ZAGtfja+6lnE7oD/G+
+r57aHnsiI27ieMvBYzMXK86DvsuBQ2fyH2U79plqKsvaa665BsU1tW9eewkpjvIU
+0NrZQeMl87BxQ2XpWvqVAENCmr80f3G2bmWSL1x6OBU00MQTZN2NX7UWbW+47nX9
+Ou1I3mzGoP/Ojh9wm5M5nZ0XMVocu+Nol30+zbC1IBrvbdo1VjfddaqKX7ze+Uy6
+dTynPvXbkhFr6G3iBG7KaXqt5xupPOntF9Xb/gY=
+=S/Dz
+-----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
-View my publicly-auditable identity here: https://keybase.io/nickgnazzo
+View my publicly-auditable identity here: https://keybase.io/ngnazzo
 
 ==================================================================
