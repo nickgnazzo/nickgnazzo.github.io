@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/nickgnazzo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nickgnazzo.com
+  * I am nickgnazzo (https://keybase.io/nickgnazzo) on keybase.
+  * I have a public key ASBDNl6FKTKP2C9yPcz78DuANM5_2nEwVz0HuMt6zyOFTAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012043365e8529328fd82f723dccfbf03b8034ce7fda7130573d07b8cb7acf23854c0a",
+      "host": "keybase.io",
+      "kid": "012043365e8529328fd82f723dccfbf03b8034ce7fda7130573d07b8cb7acf23854c0a",
+      "uid": "9da4a35687011f0d0a7451a6bf72bf19",
+      "username": "nickgnazzo"
+    },
+    "merkle_root": {
+      "ctime": 1566604683,
+      "hash": "4d47c06f29e325d75bf9279c6f8c89c8f5d9c65fd1076f99b4fef4f42256325032d76586f9e7ff1d82880ad9c0e962f608bbd1e1d7c7ddf1870d5a5f6820567c",
+      "hash_meta": "b0c5f2286026e81a3c82922dd5e0275dc8118aef922598709ab7b53651bc00bd",
+      "seqno": 6086788
+    },
+    "service": {
+      "entropy": "0Kdyv0e2/LUYCabEiG+QPWQG",
+      "hostname": "nickgnazzo.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.3.2"
+  },
+  "ctime": 1566604728,
+  "expire_in": 504576000,
+  "prev": "763e46068dd70182292baee2cceee26ac5f7dfc5758f33ed226cdedb97bf0790",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQzZehSkyj9gvcj3M+/A7gDTOf9pxMFc9B7jLes8jhUwKp3BheWxvYWTESpcCCMQgdj5GBo3XAYIpK67izO7iasX338V1jzPtImze25e/B5DEIL02cYuus7YHUvFUprWth15/YAgRProVDv+QQOxKXaPsAgHCo3NpZ8RAsyCahSKHUKLYmr9s1ERS0AiwgVy7NFsxfCXljNPJK6TLQnDLcqWcnyAS3K6/77qGiROdzFbemSaK+EQQhGLWCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMqvItXScaJqExCobWWOclZF5oMp20Z7BG3PCf5tGrE4o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nickgnazzo
+
+==================================================================
